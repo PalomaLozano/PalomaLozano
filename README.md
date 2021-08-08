@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paloma</h1>
 <h3 align="center">A passionate Front-End Developer from Spain and a Graphic Design lover.</h3>
 
-<p align="center"> 🌱 I’m currently learning **GIT/HTML/CSS/Sass/JavaScript/React/Node** 🌱 </p>
+<p align="center"> 🌱 I’m currently learning **GIT/HTML/CSS/Sass/JavaScript/Bootstrap/React/Node** 🌱 </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
