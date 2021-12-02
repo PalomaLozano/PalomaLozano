@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paloma</h1>
-<h3 align="center">A passionate frontend developer from Spain and a graphic design lover.</h3>
+<h3 align="center">A passionate Frontend Developer from Spain and a Graphic Design lover.</h3>
 
 <h3 align="center">🌱 I’m currently learning **GIT/HTML/CSS/Sass/Bootstrap/JavaScript/React/Node/MySQlite/Express** 🌱<h3 align="center">
 
-<h4 align="center">Also I am Graphic Designer and I wish to mix design with front-end development for make websites easy to use and to understand. I know design programs like Photoshop, Illustrator, InDesign, Lightroom, Premiere XD, and a little of Cinema 4D </h4>
+<h4 align="center">Also I am Graphic Designer and I wish to mix design with Front-End Development for make websites easy to use and to understand. I know design programs like Photoshop, Illustrator, InDesign, Lightroom, Premiere XD, and a little of Cinema 4D </h4>
 <p align="center">
 </p>
 
